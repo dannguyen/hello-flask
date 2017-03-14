@@ -1,0 +1,9 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2017-03-14T05:06:54.460Z,34.0388333,-117.2386667,17.64,3.61,mw,182,15,0.01436,0.2,ci,ci37828544,2017-03-14T20:53:54.999Z,"2km ESE of Loma Linda, CA",earthquake,0.11,0.22,,4,reviewed,ci,ci
+2017-03-05T22:47:53.310Z,-5.999,149.353,31.07,6.3,mww,,17,3.326,0.99,us,us1000876f,2017-03-10T18:37:18.734Z,"32km NW of Kandrian, Papua New Guinea",earthquake,6.6,3.2,,,reviewed,us,us
+2017-03-02T02:11:30.682Z,59.5785,-152.6546,78,5.5,ml,,,,0.92,ak,ak15426300,2017-03-13T23:55:23.379Z,"42km WSW of Anchor Point, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2017-02-24T17:28:44.870Z,-23.2601,-178.8033,414.89,6.9,mww,,19,6.011,0.96,us,us20008m3t,2017-03-08T18:38:16.565Z,"289km S of Ndoi Island, Fiji",earthquake,8.6,3.5,,,reviewed,us,us
+2017-02-23T04:59:04.050Z,47.4801667,-123.035,15.44,4.09,ml,58,34,0.1653,0.25,uw,uw61251926,2017-03-08T11:02:24.115Z,"14km W of Belfair, Washington",earthquake,0.3,0.59,0.184,47,reviewed,uw,uw
+2017-02-21T14:09:04.320Z,-19.2814,-63.9047,595.98,6.5,mww,,14,4.242,0.9,us,us20008l41,2017-03-14T13:55:31.666Z,"41km E of Padilla, Bolivia",earthquake,9.6,3,0.04,59,reviewed,us,us
+2017-02-18T12:10:17.970Z,-23.8613,-66.6592,222,6.3,mww,,28,2.415,1.23,us,us20008kn8,2017-03-03T08:33:46.369Z,"52km NW of San Antonio de los Cobres, Argentina",earthquake,6.9,1.8,0.039,63,reviewed,us,us
+2017-02-17T15:33:30.660Z,20.0665,-156.0566667,40.721,4.66,ml,25,133,0.1881,0.13,hv,hv61610021,2017-03-11T01:44:14.266Z,"24km NW of Waikoloa Village, Hawaii",earthquake,0.55,0.99,0.189,44,reviewed,hv,hv
